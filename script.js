@@ -24,7 +24,7 @@ function changeQuality (quality) {
   video.play()
   toggleQuality()
 }
-
+// toggle quality panel
 // toggle quality panel
 function toggleQuality () {
   if (quality.style.visibility == 'visible') {
